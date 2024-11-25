@@ -2,4 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/hbkantonio/demo_test/compare/v1.0.0...v1.1.0) (2024-11-25)
+
+
+### ✨ Features
+
+* se modifica html ([9a2e80c](https://github.com/hbkantonio/demo_test/commit/9a2e80c0e75570f68a0571382af822fa74e98ec7))
+
 ## 1.0.0 (2024-11-25)
