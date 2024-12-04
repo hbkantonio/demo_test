@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/hbkantonio/demo_test/compare/v1.1.0...v1.2.0) (2024-12-04)
+
+
+### ✨ Features
+
+* **auth:** agregar endpoint para registro de usuarios ([8e5346f](https://github.com/hbkantonio/demo_test/commit/8e5346f0999efc1d56e41b8ead39dc647d933df3))
+* **fontend:** modificacion en index [#21231](https://github.com/hbkantonio/demo_test/issues/21231) ([25bafe9](https://github.com/hbkantonio/demo_test/commit/25bafe937f983a3a112a05736b591624c26ea2f9))
+* **index:** se modifica texto de bienvenida ([268f491](https://github.com/hbkantonio/demo_test/commit/268f491ea78690f2b7a12d30648a4f6844065b98))
+
 ## [1.1.0](https://github.com/hbkantonio/demo_test/compare/v1.0.0...v1.1.0) (2024-11-25)
 
 
