@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/hbkantonio/demo_test/compare/v2.0.0...v2.0.1) (2024-12-04)
+
+
+### 🐛 Bug Fixes
+
+* correguir errores de ortografia ([37ea23d](https://github.com/hbkantonio/demo_test/commit/37ea23d23dbf21e923058958a9c57adbbe3f5ea2)), closes [#121221](https://github.com/hbkantonio/demo_test/issues/121221)
+
 ## [2.0.0](https://github.com/hbkantonio/demo_test/compare/v1.2.1...v2.0.0) (2024-12-04)
 
 
