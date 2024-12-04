@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/hbkantonio/demo_test/compare/v1.2.1...v2.0.0) (2024-12-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* cambio general de front
+
+### ✨ Features
+
+* cambio tony ([dcf1a64](https://github.com/hbkantonio/demo_test/commit/dcf1a64a4f1df55490f0f5ea5d66a83927cdd6b1))
+
 ### [1.2.1](https://github.com/hbkantonio/demo_test/compare/v1.2.0...v1.2.1) (2024-12-04)
 
 ## [1.2.0](https://github.com/hbkantonio/demo_test/compare/v1.1.0...v1.2.0) (2024-12-04)
